@@ -28,3 +28,16 @@
 .barra__container--reproducao {
     grid-column: 4/9;
 }
+
+.rodape__botao--voltar {
+    grid-column: 4/5;
+    justify-self: end;
+}
+
+.rodape__botao--proximo {
+    justify-self: left;
+}
+
+.rodape__botao--volume-down {
+    justify-self: end;
+}
